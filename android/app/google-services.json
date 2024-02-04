@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1058065571219",
+    "project_id": "myfirebase-656f8",
+    "storage_bucket": "myfirebase-656f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058065571219:android:4faec5160e0337eed11c66",
+        "android_client_info": {
+          "package_name": "com.example.chitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058065571219-l1oh47kkm1uik079ss0ie29vv1evbps7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlFot_hFe5ShebyZ80_hQLHsFqe3GmxoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058065571219-l1oh47kkm1uik079ss0ie29vv1evbps7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058065571219-4kb9p0od854sjnfs1kjk8sabp356gse4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myfire"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058065571219:android:97712a18674b23b5d11c66",
+        "android_client_info": {
+          "package_name": "com.example.myfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058065571219-l1oh47kkm1uik079ss0ie29vv1evbps7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlFot_hFe5ShebyZ80_hQLHsFqe3GmxoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058065571219-l1oh47kkm1uik079ss0ie29vv1evbps7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058065571219-4kb9p0od854sjnfs1kjk8sabp356gse4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myfire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
